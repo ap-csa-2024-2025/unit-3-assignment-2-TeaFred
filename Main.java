@@ -80,7 +80,7 @@ public class Main
       if (word1.compareTo("F") == 0){
         System.out.println("0-60");
       }
-    
+    }
     
     //Problem 7
     int num7 = ((int)Math.random()*51);
@@ -111,5 +111,4 @@ public class Main
       System.out.println("NOT NORMAL");
     }
   }
-}
 }
